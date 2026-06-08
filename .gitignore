@@ -1,0 +1,54 @@
+venv/
+*.pyc
+
+__pycache__/
+
+data/
+
+
+*.log
+*.pcap
+*.json_log
+reports/
+
+*.pyd
+*.so
+*.dll
+*.o
+*.obj
+
+
+*_build.py
+_cffi_*
+_entropyCalcC*
+
+
+*.pkl
+*.joblib
+*.h5
+
+
+# VS Code cache
+.vscode/
+
+*~
+# Mediul virtual
+build_env/
+__pycache__/
+
+# Fisiere de Build 
+build/
+dist/
+*.spec
+
+# Binare si teste
+*.exe
+*.dll
+*.zip
+*.pcap
+src/Core/asd
+
+# Baza de date
+*.db
+*.sqlite3
+izolare/
